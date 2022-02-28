@@ -4,13 +4,4 @@ My name is Nicholas Sylke, a self-taught software engineer from Wisconsin. I cur
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/?username=nsylke&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsylke&layout=compact&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+![Metrics](/github-metrics.svg)
