@@ -1,7 +1,7 @@
-### Hi there 👋
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=nsylke&show_icons=true&theme=nord&include_all_commits=true)](nsylke)
 
-My name is Nicholas Sylke, a self-taught software engineer from Wisconsin. I currently work at Ken Cook as a software engineer using JavaScript/TypeScript with React & Next.js and Java with Spring Boot.  
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nsylke&row=1&theme=nord)](nsylke)
 
----
+[![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsylke&theme=nord)](nsylke)
 
-![Metrics](/github-metrics.svg)
+[![Github Readme Toplang](https://github-readme-stats.vercel.app/api/top-langs?username=nsylke&layout=compact&langs_count=10&hide=html,css&theme=nord)](nsylke)
